@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @christophstockhusen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I’m Christoph 👋
 
-<!---
-christophstockhusen/christophstockhusen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎲 Board game geek and dungeon master: Agricola, Das schwarze Auge, Funkenschlag, Skat, Dominion
+- 🧑‍💻 Emacs, Bash, Scala, SQL, Typescript, Clojure, Google Cloud Platform
+- 👀 Interested in typography, gardening, coffee, economics
